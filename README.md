@@ -189,7 +189,7 @@ voxgig-mini-task-2/
 
 ---
 
-**Tested by:** Claude (AI assistant)  
+**Tested by:** sahan Hettiarachchi 
 **Test Date:** 2026-10-02  
 **Environment:** Node v22.14.0, npm 11.7.0, Windows 11  
 **Jostraca Version Tested:** 0.39.0  
